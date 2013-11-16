@@ -7,3 +7,6 @@ TestResults
 
 # nuget packages
 packages
+!packages/repository.config
+/test-results/
+/*.userprefs
